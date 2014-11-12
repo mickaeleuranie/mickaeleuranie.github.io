@@ -1,0 +1,75 @@
+html, body {
+	height: 100%;
+}
+body {
+	background-color: #fff;
+}
+h2 {
+	font-size: 60px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Oswald',sans-serif;
+}
+p {
+	font-family: 'Source Sans Pro',sans-serif;
+}
+/**
+ * HOME
+ */
+#home {
+	padding-top: 50px;
+	background-color: #fff;
+	background-size: 100%;
+}
+#presentation-micster {
+	padding-top: 15px;
+	text-align: center;
+	vertical-align: middle;
+}
+#presentation-micster img {
+	width: 200px;
+}
+#presentation-micster .name {
+	margin-top: 15px;
+}
+#presentation-micster .current-status {
+	font-style: italic;
+}
+#presentation-micster .social-networks a {
+	color: #024A68;
+	outline: 0;
+}
+ul.social-networks {
+	list-style: none outside;
+	padding: 0;
+}
+ul.social-networks li {
+	display: inline;
+	line-height: 18px;
+	padding: 0;
+	margin: 0 3px;
+}
+
+.page-description {
+	text-align: center;
+}
+
+
+/**
+ * USEFULL CLASS
+ */
+.hidden {
+	display: none;
+}
+
+/**
+ * FONT AWESOME ICONES SIZE
+ */
+.fa-2{font-size:2em}
+.fa-3{font-size:4em}
+.fa-4{font-size:7em}
+.fa-5{font-size:12em}
+.fa-6{font-size:20em}
+.fa-1,.jumbotron-icon .fa-2,.jumbotron-icon .fa-3,.jumbotron-icon .fa-4,.jumbotron-icon .fa-5,.jumbotron-icon .fa-6{
+	margin-right:.07em;
+}
