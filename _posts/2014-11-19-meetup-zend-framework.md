@@ -4,7 +4,9 @@ title:  "Premier Meetup Zend Framework"
 date:   2014-11-19 23:24:42
 categories: PHP Meetup Zend Framework Zend-Framework
 summary: Compte-rendu du premier meetup Zend Framework
-comments: True
+comments: true
+shortUrl: http://goo.gl/TibqYx
+share: true
 ---
 
 Le lundi 17 novembre 2014 a eu lieu le premier meetup du groupe centré sur Zend Framework, dans des locaux pretés par Inovia ( [@inoviateam](http://twitter.com/inoviateam) ). Le programme était composé de deux présentations :

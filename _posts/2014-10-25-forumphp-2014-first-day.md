@@ -4,8 +4,10 @@ title:  "Forum PHP 2014 - Premier jour"
 date:   2014-10-25 13:18:09
 categories: PHP ForumPHP
 summary: Résumé du Forum PHP du 23 au 24 octobre 2014
-comments: True
+comments: true
+shortUrl: http://goo.gl/ozyCmD
 ---
+
 # ForumPHP 2014
 Premier jour – 23/10/2014
 
