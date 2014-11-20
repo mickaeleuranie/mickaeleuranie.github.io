@@ -91,8 +91,6 @@ Car ce n'est pas écrit. Là c'est du non officiel.
 
 On sait mais là je vous annonce la fin de la saison avant qu'elle ne commence, y a pas de date, y a pas de roadmap.
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 
 ## 6 breaking points : débogage dans Zend Framework 2
 
